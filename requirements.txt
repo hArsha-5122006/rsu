@@ -5,4 +5,4 @@ scikit-learn
 joblib
 xgboost
 plotly
-openpyxl
+openpyxlreportlab==5.0.1
